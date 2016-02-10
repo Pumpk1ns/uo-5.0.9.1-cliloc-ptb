@@ -915,9 +915,9 @@ Number;Text;Referência (Esta coluna deve ser excluída na hora de salvar como C
 500913;A força da vida desta vítima não era puro. Você tropeça para trás na dor.;The life force of this victim was not pure. You stumble back in pain.
 500914;Quem você deseja aplicar as bandagens para?;Whom do you wish to apply the bandages to?
 500915;Você não pode curar isso!;You can't heal that!
-500916;Você aplicar as ligaduras, mas eles não parecem fazer qualquer bom.;You apply the bandages, but they do not seem to do any good.
-500917;Script é feito !!;Script is Done!!
-500918;Alvo não pode ser visto.;Target cannot be seen.
+500916;Você aplica as bandagens, mas parece que elas não ajudaram em nada.;You apply the bandages, but they do not seem to do any good.
+500917;Script está Pronto!;Script is Done!!
+500918;O alvo não pode ser visto.;Target cannot be seen.
 500919;Estou no chão?;Am I on the ground?
 500920;Não no chão!;Not on ground!
 500921;Estou em casa?;Am I at home?
@@ -994,8 +994,8 @@ Number;Text;Referência (Esta coluna deve ser excluída na hora de salvar como C
 500992;Uma pena foi destruído.;A feather was destroyed.
 500993;Um veio foi destruído.;A shaft was destroyed.
 500994;Desarmado;Disarmed
-500995;Reloaded;Reloaded
-500996;Reloaded;Reloaded
+500995;Recarregado;Reloaded
+500996;Recarregado;Reloaded
 500997;Você precisa de mais trigo para fazer um saco de farinha.;You need more wheat to make a sack of flour.
 500998;Não há espaço suficiente em sua mochila! Você parar de moagem.;There is not enough room in your backpack! You stop grinding.
 500999;dentro targetobj;inside targetobj
@@ -1198,7 +1198,7 @@ Number;Text;Referência (Esta coluna deve ser excluída na hora de salvar como C
 501196;Localização inválida. Guildstones só podem ser colocados em uma casa que você possui e que não tem outros guildstones nele.;Invalid location. Guildstones may only be placed in a house that you own and which has no other guildstones in it.
 501197;Este objeto teletransporte não pode determinar o que guildstone se teletransportar;This teleporting object cannot determine what guildstone to teleport
 501198;Que vergonha para tentar cortar o cliente!;Shame on you for attempting to hack the client!
-501199;Você pintar o cabelo.;You dye your hair.
+501199;Você pinta seu cabelo.;You dye your hair.
 501200;Você decide não pintar o cabelo.;You decide not to dye your hair.
 501201;Não havia suficiente para ter qualquer efeito.;There wasn't enough left to have any effect.
 501202;Quem deve participar do remédio?;Who shall partake of the remedy?
