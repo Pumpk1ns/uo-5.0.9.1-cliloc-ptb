@@ -2,13 +2,13 @@
 using System.IO;
 using System.Text;
 
-namespace ClilocBuilder
+namespace TsvToCliloc
 {
     class MainClass
     {
         public static void Main()
         {
-            var fi = new FileInfo(string.Concat("Cliloc.ptb"));
+            var fi = new FileInfo("Cliloc.ptb");
             FileStream fs;
 
             try
@@ -24,24 +24,20 @@ namespace ClilocBuilder
             var bw = new BinaryWriter(fs);
             bw.Write(new byte[] { 2, 0, 0, 0, 1, 0 });
 
-            using (var sr = new StreamReader("CliLoc.csv"))
+            using (var sr = new StreamReader("Cliloc.ptb.tsv"))
             {
                 string line;
 
                 while ((line = sr.ReadLine()) != null)
                 {
-                    if ((line = line.Trim()).Length == 0 || line.StartsWith("#") || line.StartsWith("Number;"))
+                    if ((line = line.Trim()).Length == 0 || line.StartsWith("Number"))
                         continue;
                     
                     try
                     {
-                        string[] split = line.Split(';');
-
-                        if (split.Length < 2)
-                            continue;
-
+                        string[] split = line.Split('\t');
                         int number = int.Parse(split[0].Trim());
-                        string text = split[1].Trim();
+                        string text = (split.Length > 1) ? split[1].Trim() : "";
                         byte[] textBytes = Encoding.UTF8.GetBytes(text);
 
                         bw.Write(Convert.ToUInt32(number));
