@@ -201,8 +201,8 @@ Number	Text	Original text in English (This column is ignored during the import)
 500199	Ahh! Temos estado a olhar para isso!	Ahh!  We've been looking for that!
 500200	Eu não tenho nenhuma necessidade para isso.	I have no need for that.
 500201	Eu não posso morrer.	I cannot die.
-500202	feitiço falhou	Spell failed
-500203	Não bastante Mana	Not enough mana
+500202	A magia falhou	Spell failed
+500203	Não tem mana suficiente	Not enough mana
 500204	Você não pode dizer nada neste momento	You cannot say anything at this time; you have been muted.
 500205	Você não pode ficar em uma montagem que está lutando.	You can't get on a mount that's fighting.
 500206	Isso é muito longe para montar.	That is too far away to ride.
@@ -6992,19 +6992,19 @@ Number	Text	Original text in English (This column is ignored during the import)
 1015239	Pantera	Panther
 1015240	Gorila	Gorilla
 1015241	Urso preto	Black Bear
-1015242	urso-pardo	Grizzly Bear
+1015242	Urso-pardo	Grizzly Bear
 1015243	Urso polar	Polar Bear
 1015244	Homem humano	Human Male
-1015245	monstros	Monsters
-1015246	lodo	Slime
+1015245	Monstros	Monsters
+1015246	Limo	Slime
 1015247	Orc	Orc
 1015248	Homem lagarto	Lizard Man
 1015249	Gárgula	Gargoyle
 1015250	Ogro	Ogre
 1015251	Troll	Troll
-1015252	ettin	Ettin
-1015253	demônio	Daemon
-1015254	fêmea humana	Human Female
+1015252	Ettin	Ettin
+1015253	Demônio	Daemon
+1015254	Fêmea Humana	Human Female
 1015255	<Center> Menu Tailor Seleção </ center>	<center>Tailor Selection Menu</center>
 1015256	chapéus	Hats
 1015257	solidéu	skullcap
@@ -7043,7 +7043,7 @@ Number	Text	Original text in English (This column is ignored during the import)
 1015290	sapatos	shoes
 1015291	chuteiras	boots
 1015292	carregadores coxa	thigh boots
-1015293	Armadura de couro	Leather Armor
+1015293	Armadura de Couro	Leather Armor
 1015294	gorget couro	leather gorget
 1015295	chapéu de couro	leather cap
 1015296	luvas de couro	leather gloves
@@ -23118,37 +23118,37 @@ Number	Text	Original text in English (This column is ignored during the import)
 1034659		
 1034660		
 1034661		
-1034662	domínio da energia	field of energy
-1034663	domínio da energia	field of energy
-1034664	domínio da energia	field of energy
-1034665	domínio da energia	field of energy
-1034666	domínio da energia	field of energy
-1034667	domínio da energia	field of energy
-1034668	domínio da energia	field of energy
-1034669	domínio da energia	field of energy
-1034670	domínio da energia	field of energy
-1034671	domínio da energia	field of energy
-1034672	domínio da energia	field of energy
-1034673	domínio da energia	field of energy
-1034674	domínio da energia	field of energy
-1034675	domínio da energia	field of energy
-1034676	domínio da energia	field of energy
-1034677	domínio da energia	field of energy
-1034678	domínio da energia	field of energy
-1034679	domínio da energia	field of energy
-1034680	domínio da energia	field of energy
-1034681	domínio da energia	field of energy
-1034682	domínio da energia	field of energy
-1034683	domínio da energia	field of energy
-1034684	domínio da energia	field of energy
-1034685	domínio da energia	field of energy
-1034686	domínio da energia	field of energy
-1034687	domínio da energia	field of energy
-1034688	domínio da energia	field of energy
-1034689	domínio da energia	field of energy
-1034690	domínio da energia	field of energy
-1034691	domínio da energia	field of energy
-1034692	domínio da energia	field of energy
+1034662	campo de energnia	field of energy
+1034663	campo de energnia	field of energy
+1034664	campo de energnia	field of energy
+1034665	campo de energnia	field of energy
+1034666	campo de energnia	field of energy
+1034667	campo de energnia	field of energy
+1034668	campo de energnia	field of energy
+1034669	campo de energnia	field of energy
+1034670	campo de energnia	field of energy
+1034671	campo de energnia	field of energy
+1034672	campo de energnia	field of energy
+1034673	campo de energnia	field of energy
+1034674	campo de energnia	field of energy
+1034675	campo de energnia	field of energy
+1034676	campo de energnia	field of energy
+1034677	campo de energnia	field of energy
+1034678	campo de energnia	field of energy
+1034679	campo de energnia	field of energy
+1034680	campo de energnia	field of energy
+1034681	campo de energnia	field of energy
+1034682	campo de energnia	field of energy
+1034683	campo de energnia	field of energy
+1034684	campo de energnia	field of energy
+1034685	campo de energnia	field of energy
+1034686	campo de energnia	field of energy
+1034687	campo de energnia	field of energy
+1034688	campo de energnia	field of energy
+1034689	campo de energnia	field of energy
+1034690	campo de energnia	field of energy
+1034691	campo de energnia	field of energy
+1034692	campo de energnia	field of energy
 1034693		
 1034694		
 1034695	campo de paralisia	field of paralysis
@@ -29305,14 +29305,14 @@ Number	Text	Original text in English (This column is ignored during the import)
 1049571	Ostard	Ostard
 1049572	Felino	Feline
 1049573	Aracnídeo	Arachnid
-1049574	demônio	Daemon
+1049574	Demônio	Daemon
 1049575	Urso	Bear
-1049576	equino	Equine
+1049576	Equino	Equine
 1049577	Touro	Bull
-1049578	acessos	Hits
+1049578	Vida	Hits
 1049579	Energia	Stamina
-1049580	mana	Mana
-1049581	armor Rating	Armor Rating
+1049580	Mana	Mana
+1049581	Armadura	Armor Rating
 1049582	Aviso!!! Você está prestes a tomar uma ação que irá afectar <U> ALL </ U> de seus personagens em <u> todos os shards </ u>.	Warning!!! You are about to take an action that will affect <U>ALL</U> of your characters on <U>ALL SHARDS</U>.
 1049583	Você está prestes a colocar uma nova casa. Colocar esta casa vai <a href = "?ForceTopic97"> condenar </a> qualquer e todas as suas outras casas que você pode ter. Todas as suas casas em <U> todos os cacos </ U> serão afetados. <BR> Além disso, você não será capaz de colocar uma outra casa ou ter um transferida para você por um (1) da vida real semana. <BR> Uma vez que você aceita estes termos, estes efeitos não pode ser revertida. Re-deeding ou transferir sua nova casa vai <U> não </ U> uncondemn sua outra casa (s) nem a uma seMana temporizador ser removido. <BR> Se você está absolutamente certo de que você deseja prosseguir, clique em no botão ao lado OKAY abaixo. Se você não deseja negociar para esta casa, clique em Cancelar.	You are about to place a new house.  Placing this house will <a href = "?ForceTopic97">condemn</a> any and all of your other houses that you may have.  All of your houses on <U>all shards</U> will be affected.<BR><BR>In addition, you will not be able to place another house or have one transferred to you for one (1) real-life week.<BR><BR>Once you accept these terms, these effects cannot be reversed.  Re-deeding or transferring your new house will <U>not</U> uncondemn your other house(s) nor will the one week timer be removed.<BR><BR>If you are absolutely certain you wish to proceed, click the button next to OKAY below.  If you do not wish to trade for this house, click CANCEL.
 1049584	Você aceita esses termos?	Do you accept these terms?
@@ -31235,7 +31235,7 @@ Number	Text	Original text in English (This column is ignored during the import)
 1061148	Inteligência	Intelligence
 1061149	Pontos de Vida	Hit Points
 1061150	Energia	Stamina
-1061151	mana	Mana
+1061151	Mana	Mana
 1061152	Limite de Atributos	Maximum Stats
 1061153	Sorte	Luck
 1061154	Peso	Weight
@@ -40830,9 +40830,9 @@ Number	Text	Original text in English (This column is ignored during the import)
 1070876	Mistletoe	Mistletoe
 1070877	uma árvore nevado	a Snowy Tree
 1070878	um Topiary decorativa	a Decorative Topiary
-1070879	um cacto festiva	a Festive Cactus
-1070880	inverno de 2004	Winter 2004
-1070881	Mão mergulhado por ~1_NAME~	Hand Dipped by ~1_name~
+1070879	Um cacto festivo	a Festive Cactus
+1070880	Inverno de 2004	Winter 2004
+1070881	Mão Mergulhada por ~1_NAME~	Hand Dipped by ~1_name~
 1070882	Mistletoe Deed	Mistletoe Deed
 1070883	O visco deve ser colocado ao lado de uma parede.	The mistletoe must be placed next to a wall.
 1070884	nome da guilda não pode estar em branco.	Guild name cannot be blank.
@@ -40962,7 +40962,7 @@ Number	Text	Original text in English (This column is ignored during the import)
 1071023	Talismã	Talisman
 1071024	guilda:	Guild:
 1071025	Aliança:	Alliance:
-1071026	Arcane Círculo	Arcane Circle
+1071026	Círculo Arcano	Arcane Circle
 1071027	Dom de Renovação	Gift of Renewal
 1071028	Arma imolando	Immolating Weapon
 1071029	sintonização	Attunement
@@ -40984,7 +40984,7 @@ Number	Text	Original text in English (This column is ignored during the import)
 1071045	Placa	Sign
 1071046	Santo não pode subir estas escadas. Cuidar.	Ghost can not go up these stairs. Take care.
 1071047	Placa	Sign
-1071048	A sair aqui é ilegal.	Logging out here is illegal.
+1071048	Desconectar aqui é ilegal.	Logging out here is illegal.
 1071049	Placa	Sign
 1071050	Placa	Sign
 1071051	Ferry: Passo para o barco e dizer: "Eu gostaria de atravessar".	Ferry : Step onto the boat and say "I would like to cross".
@@ -41002,8 +41002,8 @@ Number	Text	Original text in English (This column is ignored during the import)
 1071063	terceiro Prise	Third Prise
 1071064	Base	Base
 1071065	Centro de Informações	Information Centre
-1071066	Bem vinda!	Welcome!
-1071067	Sem bola de neve lutando aqui por favor.	No snowball fighting here please.
+1071066	Bem vindo!	Welcome!
+1071067	Sem guerra de bola de neve aqui por favor.	No snowball fighting here please.
 1071068	Divirta-se! Não lute contra qualquer maneira, por favor.	Have a good time! Do not fight anyway please.
 1071069	Aliança do conselheiro	Counselor's Guild
 1071070	Conselheiro do Mês	Counselor of the Month
@@ -41021,9 +41021,9 @@ Number	Text	Original text in English (This column is ignored during the import)
 1071082	Dezembro Conselheiro do Mês	December Counselor of the Month
 1071083	Conselheiros de chumbo	Lead Counselors
 1071084	Os conselheiros seniores	Senior Counselors
-1071085	conselheiros	Counselors
-1071086	Lixo Barrel (Atenção: Os artigos serão excluídos imediatamente.)	Garbage Barrel (Caution: Items will be deleted instantly.)
-1071087	Obrigado por lançar lixo no!	Thank you for pitching garbage in!
+1071085	Conselheiros	Counselors
+1071086	Barril de Lixo (Atenção: Os itens serão excluídos imediatamente.)	Garbage Barrel (Caution: Items will be deleted instantly.)
+1071087	Obrigado por lançar lixo aqui dentro!	Thank you for pitching garbage in!
 1071088		
 1071089		
 1071090		
@@ -48132,7 +48132,7 @@ Number	Text	Original text in English (This column is ignored during the import)
 3000306	Sexo:	Sex:
 3000307	AR:	AR:
 3000308	HPs:	HPs:
-3000309	mana:	Mana:
+3000309	Mana:	Mana:
 3000310	Stam:	Stam:
 3000311	Ouro:	Gold:
 3000312	Peso:	Wght:
